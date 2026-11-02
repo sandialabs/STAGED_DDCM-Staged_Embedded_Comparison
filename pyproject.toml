@@ -1,0 +1,19 @@
+[project]
+name = "embedded-staged-comparison-code"
+version = "0.1.0"
+description = "Codebase to compare embedded and staged closures."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "diffrax>=0.7.0",
+    "equinox>=0.13.7",
+    "jax>=0.6.2",
+    "jaxopt>=0.8.5",
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.10.8",
+    "numpy>=2.2.6",
+    "optax>=0.2.8",
+    "pandas>=2.3.3",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+]
