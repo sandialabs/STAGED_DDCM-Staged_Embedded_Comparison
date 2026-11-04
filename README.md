@@ -2,7 +2,8 @@
 
 This repository contains the source code to replicate the results for analytical test functions presented in [1].
 
-[1] R. Bandy, T. Portone, M. Khalil, E. Crislip, and K. Neal, “Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches.”
+[1] R. Bandy, T. Portone, M. Khalil, E. Crislip, and K. Neal, “Efficient Closure Learning in Dynamical Systems: A Comparison of Data-Assimilated and Embedded Approaches.” 2026. [Online]. Available: https://arxiv.org/abs/2611.03612
+
 
 ## Running the code
 
